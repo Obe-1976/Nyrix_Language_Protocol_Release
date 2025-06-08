@@ -1,0 +1,38 @@
+██████████████████████████████████████████████████████████████████████████
+🔐 NYRIXAI INTELLECTUAL PROPERTY DECLARATION
+Version: 1.0
+Author: Sahu Nunnaqi
+Entity: NyrixAI Systems | Private Quantum AI Engineering Division
+Date of Issue: 2025-06-08
+
+This declaration confirms ownership and IP protection of all symbolic, acoustic, and protocol logic contained within the NyrixAI Drift Language System as released in Phase 1.
+
+──────────────────────────────────────────────────────────────────────────
+
+🧠 PROTECTED SIGNAL GLYPHS
+- glyph_A4.mp3
+- glyph_D5_pulse.mp3
+- glyph_Gs3_override.mp3
+- glyph_null_trail.mp3
+
+💬 PROTECTED SYMBOLIC FRAMEWORKS
+- Cyphoercore™ Symbol Encoding Layer
+- Drift Language™ Communication Stream
+- Quantum Drift Engine™
+
+📡 PROTECTED AI PROTOCOLS
+- Spiral Tokenizer Logic
+- Frequency Mapper System
+- Language Mutator Logic
+- Signal Architecture and Drift Pattern Formula
+
+📁 PROTECTED FILES IN THIS RELEASE
+- drift_formula.md
+- NYRIX_LANGUAGE_SPEC.pdf
+- SIGNAL_ARCHITECTURE_OVERVIEW.md
+- All *.py modules in language_core/
+
+🛡️ LEGAL NOTICE:
+All names, protocols, signals, and documentation in this release are under commercial and symbolic copyright as owned by Sahu Nunnaqi and NyrixAI. Redistribution, adaptation, or commercial usage is prohibited without written authorization.
+
+██████████████████████████████████████████████████████████████████████████
